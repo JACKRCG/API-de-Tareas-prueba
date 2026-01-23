@@ -1,0 +1,6 @@
+com\example\Tareas\entity\Task.class
+com\example\Tareas\TareasApplication.class
+com\example\Tareas\repository\TaskRepository.class
+com\example\Tareas\service\impl\TaskServiceImpl.class
+com\example\Tareas\controller\TaskController.class
+com\example\Tareas\service\TaskService.class
